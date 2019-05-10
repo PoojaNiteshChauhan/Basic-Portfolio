@@ -1,0 +1,100 @@
+footer{ 
+    background-color: #666666;
+    height: 50px;
+    border-top-style: solid;
+    border-top-color: #c39a66;
+    border-top-width: 10px;
+    text-align: center;
+    border-top: 8px solid #c39a66;
+}
+
+H1{
+    padding: 20px 0;
+    margin: 10;
+    margin-bottom: 20px;
+    font-size: 23px;
+    color: black;
+    background-color: #c39a66;
+    width: 200px;
+    text-align: center;
+    margin-left: 200px;
+    font-family: 'Georgia', Times, serif;
+}
+
+
+
+   #contact{
+
+   
+    color: gray;
+    padding: 20px 0;
+    font-size: 20px;
+    width: 200px;
+    text-align: center;
+    width: 500px;
+    margin-left: 800px;
+    margin-bottom: 20px;
+    margin-top: -100px;
+
+}
+
+
+  .inner-container {
+    
+    background-color: #cdcdcd;
+    width: 960px;
+    height: 800px;
+    margin-top: 50px;
+    margin-left: 200px;
+    color: black;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 20px;
+    margin-bottom: 50px;
+    
+    
+  }
+
+  .p
+  { color: black;
+    
+  }
+
+  .hline { width:100%; height:1px; background: black; }    
+
+  .Right-header { text-decoration: none;
+
+  }
+
+  .container { 
+    background: url(../images/dark-grey-terrazzo.png) repeat; 
+    background-size: cover;
+    width: auto; 
+    height: 1000px;
+    overflow: hidden;
+    }
+
+label{
+  text-align: left;
+  width: 100px;
+  }
+
+.Image {
+width: 40%;
+height: auto;
+padding: 30px;
+position: relative;
+float: left;
+
+
+}
+ 
+.textoverimage {
+  background-color: green;  
+  text-align: center;
+  opacity: 0.8;
+  position: absolute;
+  top: 100px;
+  width: 43%;
+  color: black;
+  font-size: 30px;
+}

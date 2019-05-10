@@ -1,0 +1,21 @@
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+.image1{
+        float: left;
+    }
+
+    .image2{
+        float: right;
+
+    }
+
+    .image3{
+        float: left;
+    }
+
+    .image4{
+        float: right;
+    }
