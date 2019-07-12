@@ -47,7 +47,7 @@ H1{
     margin-top: 50px;
     margin-left: 200px;
     color: black;
-    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px;
     margin-bottom: 50px;
     
@@ -73,6 +73,10 @@ H1{
     overflow: hidden;
     }
 
+    #clear {
+      clear: both;
+  }
+  
 label{
   text-align: left;
   width: 100px;
@@ -80,6 +84,7 @@ label{
 
 .Image {
 width: 40%;
+margin: auto;
 height: auto;
 padding: 30px;
 position: relative;
